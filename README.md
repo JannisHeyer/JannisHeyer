@@ -29,6 +29,13 @@ My favorite destination so far has been **Kenya**
 
 *-Calvin from* **Calvin and Hobbes**
 
+
+
+
+![giphy (1)](https://user-images.githubusercontent.com/90189831/132332422-7156a28a-dd86-464c-a929-e54be27e71e3.gif)
+
+
+
 <!--
 **JannisHeyer/JannisHeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
