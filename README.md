@@ -27,7 +27,7 @@ My favorite destination so far has been **Kenya**
 
 >Reality continues to ruin my life.
 
-*Calvin from* **Calvin and Hobbes**
+*-Calvin from* **Calvin and Hobbes**
 
 <!--
 **JannisHeyer/JannisHeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
