@@ -41,11 +41,9 @@
 <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/ChugunovRoman/figma-linux/master/resources/icons/128x128.png" />
 
 
+<br />
+<br />
 
-<br />
-<br />
-<br />
-<br />
 
 ### Find me on:
 
