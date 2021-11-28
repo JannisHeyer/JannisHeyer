@@ -4,10 +4,8 @@
 <br />
 🏠 - I'm from Bremen, Germany.<br />
 💻 - Striving to become a Web-Developer.<br />
-📚 - Currently working on an App utilizing spaced-repetition to help people learning a foreign language. <br />
-📖 - Eager to learn more.
-
-
+📖 - Eager to learn more.<br />
+📚 - Currently working on an App utilizing spaced-repetition to help people learning a foreign language.<br />
 
 <br />
 <br />
