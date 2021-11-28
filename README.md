@@ -4,7 +4,7 @@
 <br />
 🏠 - I'm from Bremen, Germany.<br />
 💻 - Striving to become a Web-Developer.<br />
-📚 - [iRepeat](https://github.com/JannisHeyer/irepeat-app) Currently working on an App utilizing spaced-repetition to help people learning a foreign language. <br />
+📚 - Currently working on an App utilizing spaced-repetition to help people learning a foreign language. <br />
 📖 - Eager to learn more.
 
 <br />
