@@ -8,18 +8,6 @@
 
 <br />
 <br />
-<!--
-### My Rookie Numbers:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JannisHeyer&show_icons=true&theme=radical)
-<br />
-<br />
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JannisHeyer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-<br />
--->
 
 
 ### Languages and Tools:
